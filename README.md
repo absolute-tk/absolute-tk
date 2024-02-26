@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there. I'm tk! 👋
+## I'm a self-taught designer who currently studying biomedical engineering.
+- I have an ultimate goal to contribute healthcare industry with ultra-unique new approaches where design, technology and engineering meet and blend through pop-culture & lifestyle of people.
 
-<!--
-**absolute-tk/absolute-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills 🔨
+<img src="Skills.png" width=600>
 
-Here are some ideas to get you started:
+### My Recent Projects 🍳
+- Reminders
+- Thaivivat x Carplay | Ai Box @ Thaivivat Insurance (PCL)
+- MagFund
+- SaitaSaijai
+- GreenOak!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun fact: I LOVE RAMEN !!!!! 🍜
+
+My fav is YUZU Ramen 🇹🇭 @ICONSIAM and Ichiran Ramen 🇯🇵.<br />
+here's Yuzu Tonkotsu Ramen. Must Try XD!<br /><br />
+<img src="YUZU.png" width=600>
+
