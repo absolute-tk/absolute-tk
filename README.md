@@ -6,7 +6,10 @@
 <img src="Skills.png" width=600>
 
 ### My Recent Projects 🍳
+- GitPro
+- Nokorun
 - Reminders
+- Lottery Insuance (YWC19)
 - Thaivivat x Carplay | Ai Box @ Thaivivat Insurance (PCL)
 - MagFund
 - SaitaSaijai
